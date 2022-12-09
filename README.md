@@ -3,7 +3,6 @@
 - 👀 Computer Vision, Machine Learning, Python, C/C++
 - 💞️ https://medium.com/@handeaygenli
 - 📫 https://www.linkedin.com/in/handeaygenli/
-- 
 
 <!---
 handeaygenli/handeaygenli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
