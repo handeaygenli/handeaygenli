@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @handeaygenli
 - 🌱 Physicist and High Energy and Plasma Physics Master Student.
-- 👀 Computer Vision, Machine Learning, Python, C/C++
+- 👀 Computer Vision, Machine Learning, Python, C/C++, Flutter
 - 💞️ https://medium.com/@handeaygenli
 - 📫 https://www.linkedin.com/in/handeaygenli/
 
